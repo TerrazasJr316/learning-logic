@@ -14,6 +14,14 @@ int main () {
     t = 1.00;
 
     for(i = 1; i < n; i++){
-        
+        for(pr = 1; pr <= y; pr++){
+            fac = fac * pr;
+            num = num * x;
+        }
+    m = m * (-1);
+    num = num * m;
+    t = num / fac;
+    s = s + t;
+    
     }
 }
