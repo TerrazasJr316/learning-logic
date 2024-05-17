@@ -13,4 +13,9 @@ int main () {
     scanf("%d", &n1);
 
     ctr = noDigitos(n1);
+
+    printf("El numero de digitos es: %d \n\n", ctr);
+
+    return 0;
 }
+
