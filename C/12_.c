@@ -19,3 +19,7 @@ int main () {
     return 0;
 }
 
+int noDigitos(int n1){
+    
+    static int ctr = 0;
+}
