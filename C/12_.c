@@ -20,6 +20,10 @@ int main () {
 }
 
 int noDigitos(int n1){
-    
+
     static int ctr = 0;
+
+    if(n1 != 0){
+        
+    }
 }
