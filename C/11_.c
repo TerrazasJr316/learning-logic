@@ -22,6 +22,9 @@ int main () {
     num = num * m;
     t = num / fac;
     s = s + t;
-    
+    y = y  +2;
+    num = 1.00;
+    fac = 1.00;
     }
+printf("\n la suma de  %f \n numero de terminos es %d \n n valores de x es %f \n", s, n, x);
 }
