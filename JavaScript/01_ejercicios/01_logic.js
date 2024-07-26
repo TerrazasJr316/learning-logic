@@ -1,3 +1,8 @@
+/*
+Del siguente código, ¿cúal será la salida? 
+
+*/
+
 let a = 1;
 let b = 2;
 
