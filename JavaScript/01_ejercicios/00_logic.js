@@ -1,6 +1,5 @@
 /*
 Del siguente código, ¿cúal será la salida? 
-
 */
 
 function foo(){
