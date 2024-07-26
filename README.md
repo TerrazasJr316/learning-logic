@@ -1,6 +1,6 @@
 # Códigos de lógica de programación
 
-Bienvenido al repositorio, en el que econtraras ejercicios sencillo que abarcan la lógica de programación, el cuestionamiento que se hace es sobre; ¿Cúal sera la salida? con el proposito de analizar y comprender el código.
+Bienvenido al repositorio, en el que econtraras ejercicios sencillos que abarcan la lógica de programación, el cuestionamiento que se hace es sobre; ¿Cúal sera la salida? con el proposito de analizar y comprender el código.
 
 ## Encuéntrame en:
 
