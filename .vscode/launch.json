@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LetterC",
+      "request": "launch",
+      "mainClass": "LetterC",
+      "projectName": "learning-logic_61957e9d"
+    },
+    {
+      "type": "java",
       "name": "VowelB",
       "request": "launch",
       "mainClass": "VowelB",
