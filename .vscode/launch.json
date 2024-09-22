@@ -2,6 +2,27 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "LetterC",
+      "request": "launch",
+      "mainClass": "LetterC",
+      "projectName": "learning-logic_61957e9d"
+    },
+    {
+      "type": "java",
+      "name": "VowelB",
+      "request": "launch",
+      "mainClass": "VowelB",
+      "projectName": "learning-logic_61957e9d"
+    },
+    {
+      "type": "java",
+      "name": "VowelA",
+      "request": "launch",
+      "mainClass": "VowelA",
+      "projectName": "learning-logic_61957e9d"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
