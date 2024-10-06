@@ -9,7 +9,7 @@ PI = 3.1416
 print("Ingrese ángulo en radianes:")
 x = float( input())
 sex = x*180/PI
-cen = x*200/
+cen = x*200/PI
 
 #Salida
 print("\nSALIDA: ")
