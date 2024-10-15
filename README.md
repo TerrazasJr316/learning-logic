@@ -2,10 +2,7 @@
 
 Bienvenido al repositorio, en el que econtraras ejercicios sencillos que abarcan la lógica de programación, el cuestionamiento que se hace es sobre; ¿Cúal sera la salida? con el proposito de analizar y comprender el código.
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TerrazasJr316&theme=github_dark" alt="streak-stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TerrazasJr316&theme=github_dark" alt="Stats">
-</div>
+
 
 ## Encuéntrame en
 
