@@ -1,3 +1,9 @@
+-- Ejercicio 21 --
+Dado un número entero, evalué, si resulta ser menor
+que 100 mostrar un mensaje que diga “número pequeño”
+
+-- Ejercicio 22 --
+
 -- Ejercicio 20 --
 Determine la distancia entre dos puntos en el espacio.
 (x1,y1, z1) y (x2, y2, z2). La fórmula para hallar la distancia entre 2 puntos en el
