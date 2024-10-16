@@ -1,7 +1,12 @@
+-- Ejercicio 33 --
+Leer tres números enteros y, si el primero de ellos es negativo,
+calcular el producto de los tres, en caso contrario calcular la
+suma de ellos.
+
 -- Ejercicio 32 --
 Algoritmo, que calcule el tiempo de encuentro de 2 vehículos
 que van en sentido opuesto, teniendo como datos la distancia
-inicial que los separa y la velocidad de cada uno.
+inicial que los separa y la velocidad de cada uno
 
 -- Ejercicio 31 --
 Algoritmo, que dada una fecha del año 2000 (representada por
