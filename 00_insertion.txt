@@ -1,3 +1,10 @@
+-- Ejercicio 34 --
+Calcule las raíces reales, de una ecuación de segundo grado.
+La forma de una ecuación de segundo grado es Ax² + Bx + C,
+para este caso se debe tener presente el valor de la
+discriminante. Para el algoritmo se procede a calcular las
+raíces solo si la discriminante es mayor a CERO.
+
 -- Ejercicio 33 --
 Leer tres números enteros y, si el primero de ellos es negativo,
 calcular el producto de los tres, en caso contrario calcular la
