@@ -1,3 +1,9 @@
+-- Ejercicio 20 --
+Determine la distancia entre dos puntos en el espacio.
+(x1,y1, z1) y (x2, y2, z2). La fórmula para hallar la distancia entre 2 puntos en el
+espacio es
+d = √((x2-x1 )²+(y2-y1)²+(z2-z1)²)
+
 -- Ejercicio 19 --
 Dado un ángulo en Radianes conviértalo a grados
 Sexagesimales y luego a Centesimales.
