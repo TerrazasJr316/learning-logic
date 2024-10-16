@@ -1,8 +1,14 @@
--- Ejercicio 21 --
+-- Ejercicio 23 -
+Construir un diagrama de flujo, tal que dado como dato la
+calificación de un alumno, escriba “aprobado” en caso de que esa
+calificación sea mayor a 7 o 10.
+
+
+-- Ejercicio 22 --
 Dado un número entero, evalué, si resulta ser menor
 que 100 mostrar un mensaje que diga “número pequeño”
 
--- Ejercicio 22 --
+-- Ejercicio 21 --
  Ingresar 2 números enteros diferentes e imprimir el
 menor de ellos con el mensaje “El menor es: --“.
 
