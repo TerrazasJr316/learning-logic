@@ -3,6 +3,8 @@ Dado un número entero, evalué, si resulta ser menor
 que 100 mostrar un mensaje que diga “número pequeño”
 
 -- Ejercicio 22 --
+ Ingresar 2 números enteros diferentes e imprimir el
+menor de ellos con el mensaje “El menor es: --“.
 
 -- Ejercicio 20 --
 Determine la distancia entre dos puntos en el espacio.
