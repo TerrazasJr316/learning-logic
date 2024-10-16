@@ -1,3 +1,7 @@
+-- Ejercicio 29 --
+Algoritmo, que dado dos números “a” y “b”, muestre sus
+valores en orden de menor a mayor.
+
 -- Ejercicio 28 --
 Construya un algoritmo que, dados tres números, muestre el
 mensaje “IGUALES” si la suma de los dos primeros es igual
