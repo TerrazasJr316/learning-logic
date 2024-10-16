@@ -1,3 +1,8 @@
+-- Ejercicio 31 --
+Algoritmo, que dada una fecha del año 2000 (representada por
+el día, el mes y el año en formato numérico dd/mm/aaaa),
+calcule el día siguiente. Asuma que el mes tiene 30 días.
+
 -- Ejercicio 30 --
 Un proveedor de estéreos ofrece un descuento del 10% sobre
 el precio sin IGV, de algún aparato si esta cuesta $2000 o más.
