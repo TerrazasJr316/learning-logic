@@ -1,3 +1,7 @@
+-- Ejercicio 27  --
+Dado el siguiente diagrama de flujo determine la salida obtenida
+para los siguientes datos: A=2, B=90 y C=45.
+
 -- Ejercicio 26 --
 Se desea leer por teclado un número comprendido entre 0 y 10
 (inclusive) y se desea visualizar si el número es par o impar.
