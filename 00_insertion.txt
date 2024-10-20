@@ -1,3 +1,7 @@
+-- Ejercicio 46 --
+Ingresar 50 caracteres e indicar cuantas veces se repite el
+carácter ‘a’.
+
 -- Ejercicio 45 --
 Crear un algoritmo, que dado N números enteros ingresados
 por teclado determine cuál de ellos es el menor y mayor
