@@ -1,3 +1,9 @@
+-- Ejercicio 44 --
+Escribir un algoritmo que invierta los dígitos de un número
+positivo entero. Usar operadores módulo y división para ir
+obteniendo los dígitos uno a uno. Por ejemplo, si se ingresa
+37368 debe retornar el numero 86373
+
 -- Ejercicio 43 --
 Construya un algoritmo que, dado una entrada n, calcule la
 suma de los términos de una progresión aritmética como la
