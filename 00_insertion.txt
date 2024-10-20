@@ -1,3 +1,8 @@
+-- Ejercicio 45 --
+Crear un algoritmo, que dado N números enteros ingresados
+por teclado determine cuál de ellos es el menor y mayor
+respectivamente.
+
 -- Ejercicio 44 --
 Escribir un algoritmo que invierta los dígitos de un número
 positivo entero. Usar operadores módulo y división para ir
