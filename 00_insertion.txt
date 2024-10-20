@@ -1,3 +1,8 @@
+-- Ejercicio 42 --
+Escribir un algoritmo que imprima los 10 primeros números
+primos comenzando en 2 e imprima también sus respectivos
+cubos. Por ejemplo: 2 – 8 ; 3 – 27; 5 –125 …
+
 -- Ejercicio 41 --
 Escribir un algoritmo que imprima los 10 primeros números
 pares comenzando en 2 e imprima también sus respectivos
