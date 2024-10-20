@@ -77,7 +77,7 @@ teclado es o no bisiesto.
 Dado el sueldo de un trabajador, aplique un aumento del 15% si
 su sueldo es inferior a $1000. Imprima el sueldo que percibirá
 
--- Ejercicio 23 -
+-- Ejercicio 23 --
 Construir un diagrama de flujo, tal que dado como dato la
 calificación de un alumno, escriba “aprobado” en caso de que esa
 calificación sea mayor a 7 o 10.
