@@ -13,6 +13,10 @@ comillas “”, caso contrario se tomará como variable y se
 imprimirá lo que contiene. Para imprimir varias cosas se separan
 por comas.
 
+--- Ejercicio 2 ---
+Se necesita obtener el promedio simple de un estudiante a partir
+de sus tres notas parciales N1, N2 y N3.
+
 --- Ejercicio 1 ---
 Se desea calcular la distancia recorrida (m) por un móvil que
 tiene velocidad constante (m/s) durante un tiempo t (s),
