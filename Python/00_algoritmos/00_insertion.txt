@@ -1,14 +1,10 @@
+--- Ejercicio 12 ---
+Calcular el perímetro de un triángulo equilátero, teniendo como dato de entrada la altura
+de este triángulo.
+
 --- Ejercicio 11 ---
 Dado el radio del círculo, calcule el volumen de la esfera correspondiente.
 NOTA: Si se desea imprimir un texto este se coloca entre
 comillas “”, caso contrario se tomará como variable y se
 imprimirá lo que contiene. Para imprimir varias cosas se separan
 por comas.
-
---- Ejercicio 12 ---
-Calcular el perímetro de un triángulo equilátero, teniendo como dato de entrada la altura
-de este triángulo.
-
---- Ejercicio 13 ---
-Si tengo una cantidad de soles, dar su equivalente en dólares y después en euros.
-Se sabe que 1 dólar =3.25 soles y 1 euro=3.83 soles.
