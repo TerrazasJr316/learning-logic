@@ -12,3 +12,9 @@ NOTA: Si se desea imprimir un texto este se coloca entre
 comillas “”, caso contrario se tomará como variable y se
 imprimirá lo que contiene. Para imprimir varias cosas se separan
 por comas.
+
+--- Ejercicio 1 ---
+Se desea calcular la distancia recorrida (m) por un móvil que
+tiene velocidad constante (m/s) durante un tiempo t (s),
+considerar que es un MRU (Movimiento Rectilíneo
+Uniforme).
