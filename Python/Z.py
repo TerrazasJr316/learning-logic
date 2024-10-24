@@ -17,6 +17,6 @@ z2 = float( input("z2: "))
 dis = ( (z2-z1)**2 + (y2-y1)**2 + (x2-x1)**2 )**0.5
 
 #Salida
-print("\nSALIDA: ")
+print("\nResultado: ")
 print("-------------------------------------------------------")
 print("La distancia es:", dis)
