@@ -8,14 +8,19 @@ de este triángulo.
 
 --- Ejercicio 11 ---
 Dado el radio del círculo, calcule el volumen de la esfera correspondiente.
-NOTA: Si se desea imprimir un texto este se coloca entre
-comillas “”, caso contrario se tomará como variable y se
-imprimirá lo que contiene. Para imprimir varias cosas se separan
+NOTA: Si se desea imprimir un texto este se coloca entre comillas “”, caso contrario se
+tomará como variable y se imprimirá lo que contiene. Para imprimir varias cosas se separan
 por comas.
 
+--- Ejercicio 3 ---
+Se necesita elaborar un algoritmo que solicite el número de respuestas correctas,
+incorrectas y en blanco, correspondientes a postulantes, y muestre su puntaje final
+considerando que por cada respuesta correcta tendrá 3 puntos, respuestas incorrectas
+tendrá -1 y respuestas en blanco tendrá 0.
+
 --- Ejercicio 2 ---
-Se necesita obtener el promedio simple de un estudiante a partir
-de sus tres notas parciales N1, N2 y N3.
+Se necesita obtener el promedio simple de un estudiante a partir de sus tres notas parciales
+N1, N2 y N3.
 
 --- Ejercicio 1 ---
 Se desea calcular la distancia recorrida (m) por un móvil que
