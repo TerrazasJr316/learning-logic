@@ -1,3 +1,7 @@
+--- Ejercicio 15 ---
+Calcular el monto a pagar por un artículo si se tiene como datos de entrada la cantidad
+de docenas que compra y el costo por unidad de este artículo. 
+
 --- Ejercicio 14 ---
 Dado el tiempo en segundos y la distancia en metros de un móvil, ingresados por teclado,
 calcule la velocidad correspondiente.
