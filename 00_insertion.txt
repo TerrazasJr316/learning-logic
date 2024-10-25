@@ -12,6 +12,10 @@ NOTA: Si se desea imprimir un texto este se coloca entre comillas “”, caso c
 tomará como variable y se imprimirá lo que contiene. Para imprimir varias cosas se separan
 por comas.
 
+--- Ejercicio 10 ---
+Construya un DF tal que, dado como datos el radio y la altura de un cilindro, calcule e
+imprima el área y su volumen.
+
 --- Ejercicio  9 ---
 Construya un diagrama de flujo (DF) que resuelva un problema que tiene una gasolinera. Los
 dispensadores de esta registran lo que “surten” en galones, pero el precio de la gasolina
