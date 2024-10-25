@@ -12,6 +12,10 @@ NOTA: Si se desea imprimir un texto este se coloca entre comillas “”, caso c
 tomará como variable y se imprimirá lo que contiene. Para imprimir varias cosas se separan
 por comas.
 
+--- Ejercicio 6 ---
+Se tiene los puntos A y B en el cuadrante positivo del plano cartesiano, elabore el
+algoritmo que permita obtener la distancia entre A y B.
+
 --- Ejercicio 5 ---
 Elaborar un algoritmo que permita calcular el número de micro discos 3.5 necesarios para
 hacer una copia de seguridad, de la información almacenada en un disco cuya capacidad se
