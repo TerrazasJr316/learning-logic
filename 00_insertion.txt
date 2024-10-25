@@ -12,6 +12,11 @@ NOTA: Si se desea imprimir un texto este se coloca entre comillas “”, caso c
 tomará como variable y se imprimirá lo que contiene. Para imprimir varias cosas se separan
 por comas.
 
+--- Ejercicio  9 ---
+Construya un diagrama de flujo (DF) que resuelva un problema que tiene una gasolinera. Los
+dispensadores de esta registran lo que “surten” en galones, pero el precio de la gasolina
+está fijado en litros. El DF debe calcular e imprimir lo que hay que cobrarle al cliente.
+
 --- Ejercicio 8 ---
 Construya un diagrama de flujo tal que, dado como datos la base y la altura de un
 rectángulo, calcule el perímetro y la superficie de este.
