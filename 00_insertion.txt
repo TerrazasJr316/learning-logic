@@ -1,3 +1,7 @@
+--- Ejercicio 14 ---
+Dado el tiempo en segundos y la distancia en metros de un móvil, ingresados por teclado,
+calcule la velocidad correspondiente.
+
 --- Ejercicio 13 ---
 Si tengo una cantidad de soles, dar su equivalente en dólares y después en euros.
 Se sabe que 1 dólar =3.25 soles y 1 euro=3.83 soles.
@@ -13,8 +17,8 @@ tomará como variable y se imprimirá lo que contiene. Para imprimir varias cosa
 por comas.
 
 --- Ejercicio 10 ---
-Construya un DF tal que, dado como datos el radio y la altura de un cilindro, calcule e
-imprima el área y su volumen.
+Construya un DF tal que, dado como datos el radio y la altura de un cilindro, calcule
+e imprima el área y su volumen.
 
 --- Ejercicio  9 ---
 Construya un diagrama de flujo (DF) que resuelva un problema que tiene una gasolinera. Los
