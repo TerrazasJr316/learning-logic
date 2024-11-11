@@ -1,3 +1,11 @@
+-- Ejercicio 58 --
+Cargar un vector de 100 posiciones con numero enteros, a
+partir de este crear 2 vectores; uno con los números pares y el
+otro con los numero impares, además decir de los vectores
+cual es más grande y el número de elementos en cada vector.
+Inicialmente los vectores estarán limpios, esto quiere decir
+que todas las posiciones tendrán el valor 0 (cero). 
+
 -- Ejercicio 57 --
 Elaborar un algoritmo que ordene descendentemente un
 vector.
