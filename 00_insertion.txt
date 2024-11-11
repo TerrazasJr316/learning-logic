@@ -1,3 +1,9 @@
+-- Ejercicio 50 -- 
+Dada una matriz cuadrada A, construya un diagrama de flujo
+que permita determinar si dicha matriz es simétrica. Se
+considera a una matriz simétrica si A (i , j) = A (j , i) y esto se
+cumple para todos los elementos i , j de la matriz.
+
 -- Ejercicio 49 --
 Sean 2 matrices A y B ambas bidimensionales, para que se
 puedan sumar deben poseer el mismo número de filas y
