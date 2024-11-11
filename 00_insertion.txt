@@ -1,3 +1,20 @@
+-- Ejercicio 54 --
+Escribir un algoritmo que calcule los números primos de 0 a
+100 utilizando el llamado método de la criba de Eratóstenes.
+Este método consiste en definir e inicializar con todos sus
+elementos a True un vector de 100 elementos binarios e ir
+“tachando” (pasando a False) en pasadas sucesivas todos los
+múltiplos de los números primos (2, 3, 5, 7...) hasta obtener
+sólo los números primos. Es decir:
+
+src/Ejercicio #54.png
+
+En el ejemplo en gris claro se señalan los múltiplos de 2,
+mientras que en gris oscuro los múltiplos de 3 (que no son
+múltiplos de 2).
+Nota: se emplearán 2 vectores, uno para los números y el otro
+para los valores booleanos
+
 -- Ejercicio 53 --
 Escribir un algoritmo que pida un vector de caracteres por
 pantalla e invierta el orden de los caracteres mostrándolo por
