@@ -1,3 +1,8 @@
+-- Ejercicio 48 --
+Se tiene N temperaturas. Se desea calcular su media y
+determinar entre todas ellas cuantas son superiores o iguales a
+esa media. Haciendo uso de vetores.
+
 -- Ejercicio 47 --
 Para una empresa con N empleados, se desarrolla un
 algoritmo donde se ingresa como datos el número de orden y
