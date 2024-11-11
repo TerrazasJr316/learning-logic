@@ -1,3 +1,8 @@
+-- Ejercicio 53 --
+Escribir un algoritmo que pida un vector de caracteres por
+pantalla e invierta el orden de los caracteres mostrándolo por
+pantalla. La inversión se hará sin utilizar otro vector auxiliar.
+
 -- Ejercicio 52 --
 Escribir un algoritmo que calcule el producto escalar y
 vectorial de dos vectores de 3 elementos cuyos valores se
