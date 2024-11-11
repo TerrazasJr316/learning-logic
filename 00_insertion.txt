@@ -1,3 +1,15 @@
+-- Ejercicio 55 --
+Realizar un algoritmo que maneje un vector de enteros a través
+de un menú con seis opciones:
+1.- Añadir un elemento al vector (comprobando que el vector
+no esté lleno)
+2.- Eliminar un elemento del vector (comprobando que el
+vector no esté vacío)
+3.- Listar el contenido del vector
+4.- Contar las apariciones de un número en el vector
+5.- Calcular la media y el máximo de los elementos del vector
+0.- Terminar
+
 -- Ejercicio 54 --
 Escribir un algoritmo que calcule los números primos de 0 a
 100 utilizando el llamado método de la criba de Eratóstenes.
