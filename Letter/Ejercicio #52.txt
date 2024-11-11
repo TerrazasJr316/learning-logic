@@ -1,0 +1,4 @@
+-- Ejercicio 52 --
+Escribir un algoritmo que calcule el producto escalar y
+vectorial de dos vectores de 3 elementos cuyos valores se
+introducen por pantalla
