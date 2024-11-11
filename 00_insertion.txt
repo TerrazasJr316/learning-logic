@@ -1,3 +1,8 @@
+--Ejercicio 56 --
+Elaborar algoritmo que busque en forma secuencial un
+VALOR dentro de un arreglo de N elementos numéricos y
+retorne su posición.
+
 -- Ejercicio 55 --
 Realizar un algoritmo que maneje un vector de enteros a través
 de un menú con seis opciones:
