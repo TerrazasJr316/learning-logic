@@ -1,3 +1,8 @@
+
+-- Ejercicio 40 --
+Ingresar por teclado 100 números enteros y calcular cuántos
+de ellos son pares. Se emprime el resultado.
+
 -- Ejercicio 39 --
 Dado que el valor de eˣ se puede calcular por
 aproximación de la siguiente suma: e = 1 + x + x²/2! + x³/3! + ... xⁿ/n! 
@@ -93,9 +98,9 @@ menor de ellos con el mensaje “El menor es: --“.
 
 -- Ejercicio 20 --
 Determine la distancia entre dos puntos en el espacio.
-(x1,y1, z1) y (x2, y2, z2). La fórmula para hallar la distancia entre 2 puntos en el
+(x₁,y₁, z₁) y (x₂, y₂, z₂). La fórmula para hallar la distancia entre 2 puntos en el
 espacio es
-d = √((x2-x1 )²+(y2-y1)²+(z2-z1)²)
+d = √((x₂-x₁ )²+(y₂-y₁)²+(z₂-z₁)²)
 
 -- Ejercicio 19 --
 Dado un ángulo en Radianes conviértalo a grados
