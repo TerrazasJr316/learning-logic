@@ -1,3 +1,24 @@
+-- Ejercicio 51 --
+Una empresa automotriz necesita un programa para manejar
+los montos de ventas de sus N sucursales, a lo largo de los
+últimos M años. Los datos son dados de esta forma: M, N
+            MONTO 1 1 MONTO 1 2 ….. MONTO 1 N
+            MONTO 2 1 MONTO 2 2 ….. MONTO 2 N
+            MONTO M 1 MONTO M 2 ….. MONTO M N
+Donde:
+ * M es una variable entera que representa el número de años
+entre 1 y 30 inclusive.
+ * N es una variable entera que representa el número de
+sucursales de la empresa entre 1 y 35 inclusive.
+ * MONTO i j Variable real (matriz de 2 dimensiones)
+representa lo que se vendió en el año I en la sucursal J
+
+La información que necesitan los directores de la empresa
+para tomar decisiones es la siguiente:
+a. Sucursal que más ha vendido en los M años.
+b. Promedio de ventas por año.
+c. Año con mayor promedio de ventas.
+
 -- Ejercicio 50 -- 
 Dada una matriz cuadrada A, construya un diagrama de flujo
 que permita determinar si dicha matriz es simétrica. Se
