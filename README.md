@@ -4,7 +4,7 @@
 
 #### Los retos estan en bajo recurso dentro de este proyecto toda la información en: **[retos/2024](Letter/)**
 
-## ¿óomo puedo participar?
+## ¿Cómo puedo participar?
 
 **Haz un [FORK](https://github.com/TerrazasJr316/learning-logic/fork)**
 
