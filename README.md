@@ -14,9 +14,9 @@
 4. Si nesestias ayuda o quieres comentar cualquier sugerencia o queja sobre los retos puedes escribirme al correo que proporciono a continuación: **terrazasjosue0@gmail.com**.
 5. Si se te solicita un cambio/corrección en una Pull Request, y al cabo de 2 semanas no se muestra nueva actividad, se cerrará esa petición para mantener el repositorio limpio. Por supuesto, puedes volver a enviar la Pull Request cuando quieras.
 
-Si tienes dudas con el nombre del directorio de algún lenguaje, intenta consultar el nombre que se ha empleado en ejercicios anteriores. Algunos ejemplos que puedes llegar a dudar:
-
 ## Aclaraciones
+
+Si tienes dudas con el nombre del directorio de algún lenguaje, intenta consultar el nombre que se ha empleado en ejercicios anteriores. Algunos ejemplos que puedes llegar a dudar:
 
 * c#, no csharp
 * c++, no cplusplus
