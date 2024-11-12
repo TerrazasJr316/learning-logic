@@ -6,7 +6,7 @@
 
 ## ¿Cómo puedo participar?
 
-**Haz un [FORK](https://github.com/TerrazasJr316/learning-logic/fork)**
+**Haz un [FORK](https://github.com/TerrazasJr316/learning-logic/fork)** del proyecto y trabaja con Git para ir sincronizando las actualizaciones.
 
 1. En el poyecto tienes un directorio con toda la información en ficheros con el enunciado del reto.
 2. Si quieres compartir tu propia solución, crea un nuevo fichero de código con tu nombre y extensión y realiza un **[PULL REQUEST](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)** contra el repositorio.
