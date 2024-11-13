@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TerrazasJr316 {
 
     public static void main(String[] args) {
-        @SuppressWarnings("resource")
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Introduce la velocidad: ");
