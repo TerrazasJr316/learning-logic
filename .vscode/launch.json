@@ -3,17 +3,6 @@
   "configurations": [
     {
       "type": "java",
-      "name": "TerrazasJr316",
-      "request": "launch",
-      "mainClass": "TerrazasJr316",
-      "projectName": "learning-logic_61957e9d"
-    },
-    {
-      "type": "java",
-      "name": "TerrazasJr316",
-      "request": "launch",
-      "mainClass": "TerrazasJr316",
-      "projectName": "learning-logic_11861ac6"
     },
     {
       "type": "java",
