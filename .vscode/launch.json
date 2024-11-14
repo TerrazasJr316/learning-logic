@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MRU",
+      "request": "launch",
+      "mainClass": "MRU",
+      "projectName": "learning-logic_6cfe368f"
+    },
+    {
+      "type": "java"
     },
     {
       "type": "java",
