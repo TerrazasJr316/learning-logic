@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "promedioEstudiantil",
+      "request": "launch",
+      "mainClass": "promedioEstudiantil",
+      "projectName": "learning-logic_ccca0805"
+    },
+    {
+      "type": "java",
+      "name": "Promedio_estudiantil",
+      "request": "launch",
+      "mainClass": "Promedio_estudiantil",
+      "projectName": "learning-logic_ccca0805"
+    },
+    {
+      "type": "java",
+      "name": "MRU",
+      "request": "launch",
+      "mainClass": "MRU",
+      "projectName": "learning-logic_ccca0805"
+    },
+    {
+      "type": "java",
       "name": "LetterC",
       "request": "launch",
       "mainClass": "LetterC",
