@@ -1,4 +1,3 @@
-
 print("Ingrese la velocidad y el tiempo del móvil")
 
 speed = float(input("Cuál es la velocidad: "))
