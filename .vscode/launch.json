@@ -3,10 +3,13 @@
   "configurations": [
     {
       "type": "java",
-      "name": "TerrazasJr316",
+      "name": "MRU",
       "request": "launch",
-      "mainClass": "TerrazasJr316",
-      "projectName": "learning-logic_11861ac6"
+      "mainClass": "MRU",
+      "projectName": "learning-logic_6cfe368f"
+    },
+    {
+      "type": "java"
     },
     {
       "type": "java",
