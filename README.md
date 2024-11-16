@@ -1,4 +1,4 @@
-# Retos de porgrmación 2024
+# Retos de programación 2024
 
 ### El objetivo es apoyar al futuro programador en mejorar su lógica en programación
 

@@ -1,13 +1,9 @@
-"""
-TerrazasJr316
-12 - Noviembre
-"""
 
 print("Ingrese la velocidad y el tiempo del móvil")
 
-speed = float(input("Velocidad: "))
-time = int(input("Tiempo: "))
+speed = float(input("Cuál es la velocidad: "))
+time = int(input("Cuál es el tiempo: "))
 
-distance = v * time
+distance = speed * time
 
 print(distance)
