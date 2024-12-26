@@ -1,3 +1,5 @@
+print("Ingrese un número:")
+n = int( input())
 con = 0
 
 for i in range(2, n):
