@@ -1,10 +1,10 @@
-print ("Ingrese la cantidad de números a evaluar:")
-n = int( input())
+ca = 0
 
-c = 0
-for i in range(1, n+1):
-    num = int( input("Ingrese número: "))
-if num == 0 :
-    c = c+1
+numCar = 10
+print("Ingrese", numCar, "caracteres: ")
+for i in range(0, numCar):
+    m = input("Ingrese Caracter: ")
+if m == "a" :
+    ca = ca + 1
 
-print ("Hay ", c, " números ceros")
+print ("En", numCar, "caracteres hay", ca, "caracteres 'a'")
