@@ -5,7 +5,7 @@ N = int( input("Número de Sucursales: "))
 M = int( input("Número de Años: "))
 
 for i in range(M):
-    MONTO.append( [] ) #Se Agrega la fila i
+    MONTO.append( [] )
     for j in range(N):
         print("Ingrese ventas de la sucursal", j+1 , "en el año", i+1 )
         venta = int( input())
@@ -22,7 +22,7 @@ for j in range(N):
 
 if SUMA > MAX :
     MAX = SUMA
-    SUC = j + 1 #Se incrementa j, por conteo desde 0
+    SUC = j + 1
 
 print("Sucursal que más vendió: ", SUC)
 
@@ -37,6 +37,6 @@ for i in range(M):
 
 if PROM > MAX :
     MAX = PROM
-    ANIO = i + 1 #Se incrementa i, por conteo desde 0
+    ANIO = i + 1
 
 print("Año con mayor promedio", ANIO)
