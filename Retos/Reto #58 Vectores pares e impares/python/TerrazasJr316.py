@@ -16,3 +16,4 @@ for x in range(11):
             V[x] = a
 for x in range(11):
     print(V[x])
+    
