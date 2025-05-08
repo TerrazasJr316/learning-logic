@@ -1,4 +1,4 @@
-# <p align="center" >#00 DISTANCIA SIN SORPRESAS</p>
+# <p align="center" >#01 DISTANCIA SIN SORPRESAS</p>
 > #### Dificultad: Fácil | Publicación: 24/10/24 | Corrección: 8/05/25
 
 ## Ejercicio
