@@ -1,5 +1,5 @@
 # <p align="center" >#01 DISTANCIA SIN SORPRESAS</p>
-> #### Dificultad: Fácil | Publicación: 24/10/24 | Corrección: 8/05/25
+> #### Dificultad: Fácil | Publicación: 24/12/23 | Corrección: 08/05/25
 
 ## Ejercicio
 
