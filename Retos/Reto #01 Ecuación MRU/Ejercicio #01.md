@@ -34,4 +34,4 @@
  }
 ```
 
-Sigue las **[intrucciones](../../README.md)**, aporta tu propia sulición utilizando el lenguaje de programación que tú prefieras.
+Sigue las **[intrucciones](../../README.md)**, aporta tu propia sulución utilizando el lenguaje de programación que tú prefieras.
