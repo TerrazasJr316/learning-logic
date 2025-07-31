@@ -1,4 +1,4 @@
-# <p align="center" >#02 DISTANCIA SIN SORPRESAS</p>
+# <p align="center" >#02 EL JUICIO DEL PROMEDIO</p>
 > #### Dificultad: Fácil | Publicación: 24/12/23 | Corrección: 08/05/25
 
 ## Ejercicio
@@ -23,22 +23,21 @@
    »
    »
    »
-   »
-   »
    » → OBJETIVO:
-   »   Seas capaz de implementar la ecuación del Movimineto Rectlíneo Uniforme y
-   »   resuelvas la necesidad de que un estudiante pueda hacer el calculo mendiante un lenguaje
-   »   de programación de tu preferencia.
+   »   Poner a prueba tu lógica y habilidades básicas de programación creando
+   »   una solución que permita ingresar tres notas parciales, calcular su
+   »   promedio y mostrar el resultado de forma clara. Este reto simula una
+   »   situación común en la vida académica, donde el análisis del rendimiento
+   »   mediante promedios es esencial.
+   »
+   »   Tu misión es demostrar que puedes manejar entradas, operaciones aritméticas
+   »   simples y salidas bien presentadas. ¡Que comience el reto!
    »
    » → Si usarás Inteligencia Artificial, es correcto solo asegurate de comprender el código y
-   »   analizarlo, el punto de comprender las bases y fundamentos de programación. 
+   »   analizarlo, el punto de comprender las bases y fundamentos de programación.
    »
    »   ¡¡¡ DISFRUTALO !!! :)
  }
 ```
 
 Sigue las **[intrucciones](../../README.md)**, aporta tu propia sulución utilizando el lenguaje de programación que tú prefieras.
-
---- Ejercicio 2 ---
-Se necesita obtener el promedio simple de un estudiante a partir de sus tres notas parciales
-N1, N2 y N3.
